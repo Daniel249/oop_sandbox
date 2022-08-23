@@ -1,6 +1,5 @@
 # oop_sandbox
 oop 2022 project
-
 ## Subtitle code
 `print("hello world")`
 is a single line of code
